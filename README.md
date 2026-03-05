@@ -1,4 +1,5 @@
 Lalamove Automation Project
+
 Overview
 This project is designed to automate and track Lalamove trip data, specifically focusing on logistics performance for a Perodua Viva. It includes tools to generate synthetic datasets for testing and a Power BI dashboard for visual analysis.
 
